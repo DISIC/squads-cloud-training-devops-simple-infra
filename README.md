@@ -1,0 +1,1 @@
+# squads-cloud-training-devops-simple-infra
